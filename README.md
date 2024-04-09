@@ -8,7 +8,7 @@
 
 <br>
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me:
 
 <br>
 
@@ -87,6 +87,6 @@
 
 <div align="center">
 
- <h3>Show some ❤️ by Starring Repositories!</h3> 
+<h3>Show some ❤️ by Starring Repositories!</h3> 
 
-    </div>
+</div>
