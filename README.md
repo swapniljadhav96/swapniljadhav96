@@ -17,7 +17,7 @@
 
 <p align="left"> <a href="https://twitter.com/sonujadhav_96" target="blank"><img src="https://img.shields.io/twitter/follow/sonujadhav_96?logo=twitter&style=for-the-badge" alt="sonujadhav_96" /></a> </p>
 
-- 😄 Pronouns: **He,him,his.**
+- 😄 Pronouns: **He/him/his.**
 
 - 🔭 I'm currently pursuing [My Graduation in BTech (Computer Engineering).](https://sanjivanicoe.org.in/)
 
