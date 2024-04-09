@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Computer Engineer from Bharat.
 <img alt="india_flag" width="18" height="15" src=https://cdn.pixabay.com/animation/2022/08/21/20/03/20-03-41-348_512.gif>
 </h3> 
-
+<h3 align="center">"Junior Data Scientist | Analytical Thinker Turning Data into Insights".</h3>
 
 <br>
 
@@ -17,7 +17,7 @@
 
 <p align="left"> <a href="https://twitter.com/sonujadhav_96" target="blank"><img src="https://img.shields.io/twitter/follow/sonujadhav_96?logo=twitter&style=for-the-badge" alt="sonujadhav_96" /></a> </p>
 
-- 😄 Pronouns: **he,him,his.**
+- 😄 Pronouns: **He,him,his.**
 
 - 🔭 I'm currently pursuing [My Graduation in BTech (Computer Engineering).](https://sanjivanicoe.org.in/)
 
@@ -82,9 +82,11 @@
 <a href="https://www.hackerrank.com/swapniljadhav_96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/swapniljadhav_96" height="30" width="40" /></a>
 </p>
 
-<br>
+
+
+
 <div align="center">
 
-<h3>Show some ❤️ by starring  repositories!</h3> 
-    
-</div>
+ <h3>Show some ❤️ by Starring Repositories!</h3> 
+
+    </div>
