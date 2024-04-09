@@ -67,6 +67,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapniljadhav96" alt="swapniljadhav96" /></a> </p>
 
 
+<br>
+
+## ✍️Random Dev Quote:
+
+<br>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+
+<!-- ---[![](https://visitcount.itsvg.in/api?id=iampawan&icon=0&color=1)](https://visitcount.itsvg.in) -->
+
 
 <br>
 
@@ -82,17 +91,6 @@
 <a href="https://www.codechef.com/users/sonujadhav_96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sonujadhav_96" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/swapniljadhav_96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/swapniljadhav_96" height="30" width="40" /></a>
 </p>
-
-
-<br>
-
-✍️Random Dev Quote:
-
-<br>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
-
-<!-- ---
-[![](https://visitcount.itsvg.in/api?id=iampawan&icon=0&color=1)](https://visitcount.itsvg.in) -->
 
 
 <br>
