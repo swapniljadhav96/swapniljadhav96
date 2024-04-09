@@ -33,7 +33,8 @@
 
 - ⚡Interest fact **Sports Enthusiastic**
 
-<h3 align="left">Connect with me:</h3>
+<br>
+<h3 align="left">## Connect with me:</h3>
 <br>
 
 <p align="left">
