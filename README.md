@@ -1,12 +1,17 @@
 
 <h1 align="center">Hello 👋, I'm Swapnil Jadhav</h1>
 
-<h3 align="center">A passionate Junior Data Scientist from Bharat 
+<h3 align="center">A passionate Computer Engineer from Bharat.
 <img alt="india_flag" width="18" height="15" src=https://cdn.pixabay.com/animation/2022/08/21/20/03/20-03-41-348_512.gif>
 </h3> 
 
 <img alt="india_flag" align="right" width="400" src=https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966>
 
+<br>
+
+## 🙋‍♂️ About Me
+
+<br>
 
 <p align="left"> <a href="https://twitter.com/sonujadhav_96" target="blank"><img src="https://img.shields.io/twitter/follow/sonujadhav_96?logo=twitter&style=for-the-badge" alt="sonujadhav_96" /></a> </p>
 
