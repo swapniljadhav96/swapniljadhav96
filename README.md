@@ -34,7 +34,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QpZGUxUY0R4A3mKd3Il_qkvWCMRDycMU/view?usp=sharing](https://drive.google.com/file/d/1QpZGUxUY0R4A3mKd3Il_qkvWCMRDycMU/view?usp=sharing)
 
-- ⚡Interest fact **Sports Enthusiastic**
+- ⚡Interest fact **Sports Enthusiastic**(Kabbadi,Kho-Kho,Criket)
 
 
 
@@ -82,6 +82,17 @@
 <a href="https://www.codechef.com/users/sonujadhav_96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sonujadhav_96" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/swapniljadhav_96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/swapniljadhav_96" height="30" width="40" /></a>
 </p>
+
+
+<br>
+
+✍️Random Dev Quote:
+
+<br>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+
+<!-- ---
+[![](https://visitcount.itsvg.in/api?id=iampawan&icon=0&color=1)](https://visitcount.itsvg.in) -->
 
 
 <br>
