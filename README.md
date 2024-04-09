@@ -96,6 +96,6 @@
 
 <div align="center">
 
-<h3>Show some ❤️ by Starring Repositories!</h3> 
+<h3> <i><b>" Spread the Love ❤️ by Starring ⭐ Repositories ! "</b></i></h3> 
 
 </div>
