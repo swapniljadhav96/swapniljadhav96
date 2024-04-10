@@ -1,5 +1,5 @@
 
-|[logo](https://github.com/swapniljadhav96/swapniljadhav96/blob/main/My_Banner.png)
+![logo](https://github.com/swapniljadhav96/swapniljadhav96/blob/main/My_Banner.png)
 
 <h1 align="center">Hello 👋, I'm Swapnil Jadhav</h1>
 
