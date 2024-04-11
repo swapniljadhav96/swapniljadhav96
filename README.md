@@ -1,7 +1,7 @@
 
 ![logo](https://github.com/swapniljadhav96/swapniljadhav96/blob/main/Banner1.png)
 
-<h1 align="center">Hello 👋, I'm Swapnil Jadhav</h1>
+<h1 align="center">Hello 👋, I'm Swapnil</h1>
 
 <h3 align="center">A passionate Computer Engineer from Bharat.
 <img alt="india_flag" width="18" height="15" src=https://cdn.pixabay.com/animation/2022/08/21/20/03/20-03-41-348_512.gif>
