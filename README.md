@@ -36,7 +36,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QpZGUxUY0R4A3mKd3Il_qkvWCMRDycMU/view?usp=sharing](https://drive.google.com/file/d/1QpZGUxUY0R4A3mKd3Il_qkvWCMRDycMU/view?usp=sharing)
 
-- ⚡Interest fact **Sports Enthusiastic**(Kabbadi,Kho-Kho,Criket)
+- ⚡Interest fact **Sports Enthusiastic**
 
 
 
