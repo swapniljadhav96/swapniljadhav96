@@ -34,7 +34,7 @@
 
 - 📫 How to reach me **swapniljadhav3181@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QpZGUxUY0R4A3mKd3Il_qkvWCMRDycMU/view?usp=sharing](https://drive.google.com/file/d/1QpZGUxUY0R4A3mKd3Il_qkvWCMRDycMU/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://github.com/swapniljadhav96/My_Resume)
 
 - ⚡Interest fact **Sports Enthusiastic.**
 
