@@ -1,5 +1,4 @@
 
-![logo](https://github.com/swapniljadhav96/swapniljadhav96/blob/main/Brown%20and%20Gray%20Simple%20Personal%20LinkedIn%20Banner%20(2).jpg)
 
 <h1 align="center">Hello 👋, I'm Swapnil Jadhav</h1>
 
