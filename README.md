@@ -31,10 +31,6 @@
 
 - 💬 Ask me about **Data Science.**
 
-- 📫 How to reach me **swapniljadhav3181@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://github.com/swapniljadhav96/My_Resume)
-
 - ⚡Interest fact **Sports Enthusiastic.**
 
 
